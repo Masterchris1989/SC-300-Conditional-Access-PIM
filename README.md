@@ -1,3 +1,4 @@
+<img width="3840" height="1677" alt="2026-08-14 18 Sign On-Microsoft Entra - Microsoft Entra admin center" src="https://github.com/user-attachments/assets/64d1c6e6-82ea-4b5d-8c1e-5cd6ab46ee8d" />
 # SC-300 Project #2 — Conditional Access & Privileged Identity Management (PIM)
 
 **Author:** Christian  
@@ -30,7 +31,8 @@ This is the complete write‑up for my **2nd SC‑300 project**.
 
 Sign in to **https://entra.microsoft.com** using an account with administrative privileges.
 
----
+<img width="3840" height="1677" alt="2026-08-14 18 Sign On-Microsoft Entra - Microsoft Entra admin center" src="https://github.com/user-attachments/assets/d4e622ac-5432-4dbd-9759-b660793cca99" />
+
 
 # 2. Conditional Access Configuration
 
@@ -105,7 +107,9 @@ Navigate to:
   - Policy configuration  
   - Sign‑in logs showing enforcement  
 
----
+<img width="3840" height="1677" alt="2026-08-14-Conditional Access- Microsoft Entra admin center" src="https://github.com/user-attachments/assets/a50eaaef-785a-49e8-a771-688d81afb542" />
+
+<img width="3840" height="1677" alt="2026-08-14 Conditional Access - Microsoft Entra admin center" src="https://github.com/user-attachments/assets/ab55da9d-cc86-4535-9930-f2be2f930966" />
 
 # 3. Privileged Identity Management (PIM)
 
@@ -176,7 +180,7 @@ Navigate to:
 - Complete review  
 - Capture screenshots
 
----
+<img width="3840" height="1677" alt="2026-08-14-Edit role setting - Global Administrator - Microsoft Entra admin center" src="https://github.com/user-attachments/assets/425b239f-b73b-4d90-acdd-07614fa4ec0b" />
 
 # 4. Logs & Documentation
 
@@ -201,7 +205,8 @@ Document:
 - Summary of sign‑in logs  
 - Summary of PIM activation logs  
 
----
+[AuditLogs_2026-08-14.csv](https://github.com/user-attachments/files/31089205/AuditLogs_2026-08-14.csv)
+
 
 # 5. GitHub Project Structure
 
